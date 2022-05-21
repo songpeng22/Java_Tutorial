@@ -1,4 +1,4 @@
-package com.example.jni;
+package com.jni;
 
 public class HelloJNI {  // Save as HelloJNI.java
    static {
